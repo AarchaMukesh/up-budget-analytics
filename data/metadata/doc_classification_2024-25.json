@@ -1,0 +1,128 @@
+{
+    "Budget At A Glance_24_25 (1).pdf": {
+        "filename": "Budget At A Glance_24_25 (1).pdf",
+        "classification": "mixed",
+        "total_pages": 31,
+        "page_stats": {
+            "digital_pages": 24,
+            "scanned_pages": 7
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.11780585993876463,
+            "image_dominant_pages": 5
+        }
+    },
+    "Budget Speech_2024_2025.pdf": {
+        "filename": "Budget Speech_2024_2025.pdf",
+        "classification": "digital",
+        "total_pages": 37,
+        "page_stats": {
+            "digital_pages": 37,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.154815088658872,
+            "image_dominant_pages": 0
+        }
+    },
+    "Gr61_Debt & Finacial Services.pdf": {
+        "filename": "Gr61_Debt & Finacial Services.pdf",
+        "classification": "digital",
+        "total_pages": 60,
+        "page_stats": {
+            "digital_pages": 60,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.13570553708538358,
+            "image_dominant_pages": 0
+        }
+    },
+    "Gr62_Superannuation allowances and pensions.pdf": {
+        "filename": "Gr62_Superannuation allowances and pensions.pdf",
+        "classification": "digital",
+        "total_pages": 16,
+        "page_stats": {
+            "digital_pages": 16,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.14398457437322162,
+            "image_dominant_pages": 0
+        }
+    },
+    "Gr63_ Treasury and accounts administration.pdf": {
+        "filename": "Gr63_ Treasury and accounts administration.pdf",
+        "classification": "digital",
+        "total_pages": 9,
+        "page_stats": {
+            "digital_pages": 9,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.1516912330121491,
+            "image_dominant_pages": 0
+        }
+    },
+    "Gr65_ Audit, Small Savings.pdf": {
+        "filename": "Gr65_ Audit, Small Savings.pdf",
+        "classification": "digital",
+        "total_pages": 20,
+        "page_stats": {
+            "digital_pages": 20,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.1541527789655377,
+            "image_dominant_pages": 0
+        }
+    },
+    "Gr66_Group Insurance.pdf": {
+        "filename": "Gr66_Group Insurance.pdf",
+        "classification": "digital",
+        "total_pages": 6,
+        "page_stats": {
+            "digital_pages": 6,
+            "scanned_pages": 0
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0,
+            "avg_whitespace_ratio": 0.14428614108687818,
+            "image_dominant_pages": 0
+        }
+    },
+    "Suplemenatry Budegt 2_20242025.pdf": {
+        "filename": "Suplemenatry Budegt 2_20242025.pdf",
+        "classification": "mixed",
+        "total_pages": 99,
+        "page_stats": {
+            "digital_pages": 95,
+            "scanned_pages": 4
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0006348558537110726,
+            "avg_whitespace_ratio": 0.1372874482971785,
+            "image_dominant_pages": 0
+        }
+    },
+    "Suplementary Budget 1_20242025.pdf": {
+        "filename": "Suplementary Budget 1_20242025.pdf",
+        "classification": "mixed",
+        "total_pages": 65,
+        "page_stats": {
+            "digital_pages": 61,
+            "scanned_pages": 4
+        },
+        "confidence_metrics": {
+            "avg_cid_ratio": 0.0009615384615384616,
+            "avg_whitespace_ratio": 0.13690026439123484,
+            "image_dominant_pages": 0
+        }
+    }
+}
